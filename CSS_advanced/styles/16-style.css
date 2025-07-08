@@ -427,8 +427,9 @@ a:active {
 }
 
 .container {
+  margin-right: auto;
+  margin-left: auto;
   width: 960px;
-  margin: 0 auto;
 }
 
 .section-header {
